@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pause for Android
 
 Pause helps you set up an adult-site filter and gives you a one-minute reset when an urge hits. Optional check-ins record a trigger and a response. Pause has no account, analytics, or browsing history. It keeps up to 30 check-ins in private app storage and lets you clear them.
@@ -19,3 +20,7 @@ Android applies the hostname setting after you save it. You can restore your pre
 ## Install Pause Preview
 
 The debug APK installs as Pause Preview alongside the original Pause app. Both use the phone’s system-wide Private DNS setting. Each app keeps its own check-ins.
+=======
+# pause-andriod
+Pause is an Android app that helps you cut back on porn with guided adult-site blocking, a 60 second breathing reset, and private check-ins stored on your phone.
+>>>>>>> f7b902861f0d9fbed067a67b12ea02277984de3c
